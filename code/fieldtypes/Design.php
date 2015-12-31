@@ -38,5 +38,4 @@ class Design extends Text
         }
         return false;
     }
-
 }

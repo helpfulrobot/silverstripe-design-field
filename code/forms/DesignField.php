@@ -156,5 +156,4 @@ class DesignField extends FormField
             $record->setCastedField($this->name, $return);
         }
     }
-
 }
